@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![image alt](https://github.com/DamianBacq/DamianBacq/blob/b515d75e0c35e83665749dc9fb90c9406dd4af39/%C2%A1Hola!%2C%20Soy%20Damian%20Bacqu%C3%A9.png)
 
 <p>
 	<a href="mailto:damian.bacque235@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
