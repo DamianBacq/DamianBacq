@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<p>
+	<a href="mailto:damian.bacque235@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/DamianBacq"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.link/hrxoa9"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/damian-bacque/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+
 <h2>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0cWxnMHdtc2lsYXV5bG9zMmQ5ZHgya3Jrdjc1Zng0a3NlbnRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pGnNhScvs9Udt1WSkA/giphy.gif" width="25px">
   Estudios
