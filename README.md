@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<p>
-  <a <img width="150" align='right' src="Diseño-sin-título.png"></a>
-</p>
+![image alt](https://github.com/DamianBacq/DamianBacq/blob/235278c7778408f8a912484484cc88c3fef4f304/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
 
 
 <p>
