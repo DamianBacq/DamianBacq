@@ -2,7 +2,7 @@
 
 ![image alt](https://github.com/DamianBacq/DamianBacq/blob/b515d75e0c35e83665749dc9fb90c9406dd4af39/%C2%A1Hola!%2C%20Soy%20Damian%20Bacqu%C3%A9.png)
 
-<p>
+<p align= "center">
 	<a href="mailto:damian.bacque235@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/DamianBacq"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.link/hrxoa9"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
